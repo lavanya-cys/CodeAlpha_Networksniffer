@@ -69,7 +69,7 @@ http://127.0.0.1:5000
 
 ## Screenshot
 
-![Network Packet Sniffer Dashboard](images/output.png)
+![Network Packet Sniffer Dashboard](screenshots/output.png)
 
 ## How It Works
 
