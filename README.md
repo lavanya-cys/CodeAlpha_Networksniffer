@@ -33,9 +33,13 @@ The Network Packet Sniffer Dashboard is a simple cybersecurity project built usi
 ## Project Structure
 
 ```text
-project/
+Networksniffer/
 │
 ├── app.py
+├── README.md
+│
+├── screenshots/
+│   └── output.png
 │
 └── templates/
     └── index.html
@@ -92,6 +96,4 @@ This project helped in understanding:
 
 Lavanya
 
-## Internship Task
 
-Task 1: Network Packet Sniffer Dashboard
